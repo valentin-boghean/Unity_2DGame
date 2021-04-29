@@ -1,0 +1,188 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 16235 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Unity Projects/Practica/Practica
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51553
+Successfully changed project path to: D:/Unity Projects/Practica/Practica
+D:/Unity Projects/Practica/Practica
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 136.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Unity Projects/Practica/Practica/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX150 (ID=0x1d10)
+    Vendor:   
+    VRAM:     1983 MB
+    Driver:   27.21.14.5763
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56872
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003686 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 104.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.770 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002121 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 117.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.813 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Refreshing native plugins compatible for Editor in 2.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3246 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 147.2 MB.
+System memory in use after: 147.4 MB.
+
+Unloading 36 unused Assets to reduce memory usage. Loaded Objects now: 3681.
+Total: 7.009300 ms (FindLiveObjects: 0.746100 ms CreateObjectMapping: 0.401300 ms MarkObjects: 5.628900 ms  DeleteObjects: 0.229600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/Palletes/Background/Layer1 - day.png
+  artifactKey: Guid(824a86e2e197c944a8640df02a902356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Palletes/Background/Layer1 - day.png using Guid(824a86e2e197c944a8640df02a902356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0366cf7b5c13bbf1e74088b933f58374') in 0.293634 seconds
+  Import took 0.307445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000786 seconds.
+  path: Assets/Sprites/Palletes/Background/Layer3 - day.png
+  artifactKey: Guid(67537dfa19195d24f8deb1d1463814c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Palletes/Background/Layer3 - day.png using Guid(67537dfa19195d24f8deb1d1463814c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06cfd03bd300126528b29693f7b850dd') in 0.046761 seconds
+  Import took 0.062110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000470 seconds.
+  path: Assets/Sprites/Palletes/Background/Layer2 - day.png
+  artifactKey: Guid(98126027ed5b0af479782e2ef6625145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Palletes/Background/Layer2 - day.png using Guid(98126027ed5b0af479782e2ef6625145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23b8fc6ad3cabba0a246e1dbf48da1fa') in 0.040068 seconds
+  Import took 0.054810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000498 seconds.
+  path: Assets/Sprites/Palletes/Background/Background - day.png
+  artifactKey: Guid(0abdabb54213f3149af1577add8f107b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Palletes/Background/Background - day.png using Guid(0abdabb54213f3149af1577add8f107b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0226e31441a73d7ad5d1b7506face96') in 0.034392 seconds
+  Import took 0.047340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/Sprites/Palletes/Background/Layer4 - day.png
+  artifactKey: Guid(0240a36787cd3f347b1810e6d77abcf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Palletes/Background/Layer4 - day.png using Guid(0240a36787cd3f347b1810e6d77abcf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40ba4b1b45ee21db4da555910607563a') in 0.036456 seconds
+  Import took 0.052698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000493 seconds.
+  path: Assets/Sprites/Palletes/Background/Castle.png
+  artifactKey: Guid(b801bc9b19b0f9543a76b8e431019256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Palletes/Background/Castle.png using Guid(b801bc9b19b0f9543a76b8e431019256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94827a30a6bbed985dab72a877da8716') in 0.054848 seconds
+  Import took 0.068878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.316458 seconds.
+  path: Assets/Sprites/Palletes/Background/Background - day.png
+  artifactKey: Guid(0abdabb54213f3149af1577add8f107b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Palletes/Background/Background - day.png using Guid(0abdabb54213f3149af1577add8f107b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0226e31441a73d7ad5d1b7506face96') in 0.020081 seconds
+  Import took 0.026633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.431777 seconds.
+  path: Assets/AssetPacks/Medieval Warrior Pack 2
+  artifactKey: Guid(e5637e55602cecc4eaf1a3d74d90daa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetPacks/Medieval Warrior Pack 2 using Guid(e5637e55602cecc4eaf1a3d74d90daa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f855e81a81a8165f384e091f9c3c1eb') in 0.006639 seconds
+  Import took 0.011670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006660 seconds.
+  path: Assets/AssetPacks/Medieval Warrior Pack 2
+  artifactKey: Guid(e5637e55602cecc4eaf1a3d74d90daa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AssetPacks/Medieval Warrior Pack 2 using Guid(e5637e55602cecc4eaf1a3d74d90daa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f855e81a81a8165f384e091f9c3c1eb') in 0.001717 seconds
+  Import took 0.008353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.859927 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(9ebd191ca1e837d49884bba6bfe65ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(9ebd191ca1e837d49884bba6bfe65ccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52849b3e69935c82b7fb536f49c21da2') in 0.010580 seconds
+  Import took 0.015634 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.948929 seconds.
+  path: Assets/Scenes/GameLevels
+  artifactKey: Guid(71c0f8e8ebf6ab54d82c961f5aac5957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameLevels using Guid(71c0f8e8ebf6ab54d82c961f5aac5957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be1f475f8000dcb64493dad01abee9d9') in 0.008477 seconds
+  Import took 0.013766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.207289 seconds.
+  path: Assets/Scenes/GameLevels/Level1.unity
+  artifactKey: Guid(db598232cf4e7d943849980af5e8e431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameLevels/Level1.unity using Guid(db598232cf4e7d943849980af5e8e431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7923bdf7d5056a3083b3de2df610adc') in 0.008495 seconds
+  Import took 0.013846 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.139 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3095 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 139.2 MB.
+System memory in use after: 139.4 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 3690.
+Total: 3.571800 ms (FindLiveObjects: 0.577800 ms CreateObjectMapping: 0.231000 ms MarkObjects: 2.733600 ms  DeleteObjects: 0.024900 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

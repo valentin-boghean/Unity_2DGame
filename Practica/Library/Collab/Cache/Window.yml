@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Animations/NewPlayer/Taran.controller
+    - Assets/Objects/Player/Taran.psb.meta
+    - Assets/Prefabs/GamePack.prefab
+    - Assets/Scenes/Paladin.unity
+    - Assets/Scenes/Parallax.unity
+    - Assets/Scenes/Parallax.unity.meta
+    - Assets/Scenes/Test.unity
+    - Assets/Scenes/Test.unity.meta
+    - Assets/Sprites/Palletes/Background/Assets.meta
+    - Assets/Sprites/Palletes/Background/Assets/Layer1 1.png
+    - Assets/Sprites/Palletes/Background/Assets/Layer1 1.png.meta
+    - Assets/Sprites/Palletes/Background/Assets/Layer2 1.png
+    - Assets/Sprites/Palletes/Background/Assets/Layer2 1.png.meta
+    - Assets/Sprites/Palletes/Background/Assets/Layer3 1.png
+    - Assets/Sprites/Palletes/Background/Assets/Layer3 1.png.meta
+    - Assets/Sprites/Palletes/Background/Assets/Layer4 1.png
+    - Assets/Sprites/Palletes/Background/Assets/Layer4 1.png.meta
+    - Assets/Sprites/Palletes/Background/Layer1.png.meta
+    - Assets/Sprites/Palletes/Background/Layer2.png.meta
+    - Assets/Sprites/Palletes/Background/Layer3.png.meta
+    - Assets/Sprites/Palletes/Background/Layer4.png.meta
+    - Assets/Sprites/Palletes/Background/Parallax.cs
+    - Assets/Sprites/Palletes/Background/Parallax.cs.meta
+    - Assets/Sprites/Palletes/Background/Parallex.cs
+    - Assets/Sprites/Player/Rag/ragdolu.psb.meta
+    - Assets/Sprites/Player/Rag2/ragdolu.psb.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - 
+    m_Values: 00000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
